@@ -8,8 +8,8 @@ Features
 •	Responsive design optimized for mobile, tablet, and desktop
 •	Clean sidebar navigation for quick section switching
 •	One-page layout for smooth scrolling experience
-Fully customized content including:<br>
-•	About<br>
+Fully customized content including:
+•	About
 •	Education
 •	Technical Skills
 •	Projects
@@ -52,4 +52,6 @@ Author
 Sai Aishwarya Reddy Devarapalli 📍 Arizona, USA 📧 sdevar24@asu.edu
 🔗 https://www.linkedin.com/in/sai-aishwarya
 🔗 https://github.com/sai-aishwarya-codes
+
+
 
