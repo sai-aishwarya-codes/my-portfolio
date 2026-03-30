@@ -1,10 +1,9 @@
-Live link : https://sai-aishwarya-codes.github.io/my-portfolio/ 
+# Portfolio Website
+Live Portfolio: https://sai-aishwarya-codes.github.io/my-portfolio/
 
 <img width="1886" height="843" alt="screen" src="https://github.com/user-attachments/assets/21067a98-15dc-4141-a7d8-66abd1ffa71d" />
 
-This repository contains a fully customized, responsive resume website built using the StartBootstrap Resume Theme.
-The template has been redesigned to represent my academic profile, technical skillset, and project experience in Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development.
-This portfolio is deployed using GitHub Pages and serves as an online version of my resume.
+This repository contains my personal portfolio website, built using the StartBootstrap Resume theme and customized to showcase my academic background, technical skills, projects, and achievements. It is deployed with GitHub Pages and serves as an online portfolio.
 
 ⭐ Features
 
@@ -14,7 +13,7 @@ Clean sidebar navigation for quick section switching
 
 One-page layout for smooth scrolling experience
 
-Fully customized content including:
+Sections include:
 
 About
 
@@ -26,7 +25,7 @@ Projects
 
 Achievements
 
-Lightweight and fast — built with HTML, CSS, JS, and Bootstrap
+Built with HTML, CSS, Javascript, and Bootstrap
 
 🧩 Technologies Used
 Frontend
@@ -54,8 +53,6 @@ Bootstrap-Based Layout
 
 The project uses StartBootstrap Resume, which provides:
 
-A fixed left sidebar (.navbar)
-
 Smooth-scroll navigation
 
 Section-based content blocks
@@ -64,7 +61,7 @@ Predefined typography and spacing
 
 Custom Modifications
 
-Customized the layout to include updated sections reflecting my resume
+Customized the layout to reflect my academic background, skills, and projects
 
 Removed default sections (Interests, Awards)
 
@@ -85,10 +82,6 @@ resume-section classes
 Bootstrap grid system
 
 Responsive images using img-fluid
-
-SEO & Metadata (Optional Enhancements)
-
-Metadata tags can be added to improve search visibility.
 
 📜 License
 
